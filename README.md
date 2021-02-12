@@ -35,6 +35,8 @@ This task focused is on The Boston House Dataset. The goal is to make prediction
 
 ## PROGRAMMING LANGUAGE AND LIBRARIES
 
+Language - Python
+
 ### For Data Manipulation
 
 - Pandas
